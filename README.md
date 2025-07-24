@@ -35,7 +35,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code&logoColor=58a6ff)
 
 <hr />
-<br />
 
 <div align="center">
   <h5>For AI Courses Notes: <a href="https://github.com/ai-study-notes">Click Me!</a></h5>
@@ -43,30 +42,24 @@
 </details>
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/abdel2ty" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin&logoColor=58a6ff" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="22" />
   </a>
 
   <a href="https://wa.me/201012857997" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-333?style=flat&logo=whatsapp&logoColor=58a6ff" />
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="22" />
   </a>
 
   <a href="mailto:muhvmmvdessvm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=58a6ff" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="22" />
   </a>
 
   <a href="mailto:muhvmmvdessvm2@gmail.com">
-    <img src="https://img.shields.io/badge/Email2-333?style=flat&logo=gmail&logoColor=58a6ff" />
-  </a>
-
-  <a href="https://codeforces.com/profile/abdel2ty" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-333?style=flat&logo=codeforces&logoColor=58a6ff" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail2" width="22" />
   </a>
 
   <a href="https://instagram.com/abdel2ty" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333?style=flat&logo=instagram&logoColor=58a6ff" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="22" />
   </a>
-
-  <img src="https://img.shields.io/badge/Location-Egypt-333?style=flat&logo=googlemaps&logoColor=58a6ff" />
 </p>
