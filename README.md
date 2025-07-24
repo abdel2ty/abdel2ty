@@ -42,7 +42,7 @@
 </details>
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/abdel2ty" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="22" />
   </a>
