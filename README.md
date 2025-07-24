@@ -34,19 +34,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=58a6ff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code&logoColor=58a6ff)
 
+<hr />
 <br />
-
-
 
 <div align="center">
   <h5>For AI Courses Notes: <a href="https://github.com/ai-study-notes">Click Me!</a></h5>
 </div>
 </details>
 
-<br />
-<br />
 
-<p align="right">
+<p align="center">
   <a href="https://www.linkedin.com/in/abdel2ty" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin&logoColor=58a6ff" />
   </a>
